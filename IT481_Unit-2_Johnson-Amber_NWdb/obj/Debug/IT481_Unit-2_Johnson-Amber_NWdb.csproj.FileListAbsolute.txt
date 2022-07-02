@@ -1,0 +1,9 @@
+C:\Users\amber\source\repos\IT481_Unit-2_Johnson-Amber_NWdb\bin\Debug\IT481_Unit-2_Johnson-Amber_NWdb.exe.config
+C:\Users\amber\source\repos\IT481_Unit-2_Johnson-Amber_NWdb\bin\Debug\IT481_Unit-2_Johnson-Amber_NWdb.exe
+C:\Users\amber\source\repos\IT481_Unit-2_Johnson-Amber_NWdb\bin\Debug\IT481_Unit-2_Johnson-Amber_NWdb.pdb
+C:\Users\amber\source\repos\IT481_Unit-2_Johnson-Amber_NWdb\obj\Debug\IT481_Unit_2_Johnson_Amber_NWdb.Form1.resources
+C:\Users\amber\source\repos\IT481_Unit-2_Johnson-Amber_NWdb\obj\Debug\IT481_Unit_2_Johnson_Amber_NWdb.Properties.Resources.resources
+C:\Users\amber\source\repos\IT481_Unit-2_Johnson-Amber_NWdb\obj\Debug\IT481_Unit-2_Johnson-Amber_NWdb.csproj.GenerateResource.cache
+C:\Users\amber\source\repos\IT481_Unit-2_Johnson-Amber_NWdb\obj\Debug\IT481_Unit-2_Johnson-Amber_NWdb.csproj.CoreCompileInputs.cache
+C:\Users\amber\source\repos\IT481_Unit-2_Johnson-Amber_NWdb\obj\Debug\IT481_Unit-2_Johnson-Amber_NWdb.exe
+C:\Users\amber\source\repos\IT481_Unit-2_Johnson-Amber_NWdb\obj\Debug\IT481_Unit-2_Johnson-Amber_NWdb.pdb
